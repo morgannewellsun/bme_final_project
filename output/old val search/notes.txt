@@ -1,0 +1,1 @@
+- batch size and initialization were not experimented with, so chalk up any differences with the original to these factors.

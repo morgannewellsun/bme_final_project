@@ -1,0 +1,21 @@
+configuration,n_params,n_mult,diff,noise,val_acc
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Easy1,0.05,0.9948776364326477
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Easy1,0.1,0.9977285861968994
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Easy1,0.15,0.9965497255325317
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Easy1,0.2,0.9867587685585022
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Easy1,0.25,0.9939357042312622
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Easy1,0.3,0.9953970313072205
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Easy1,0.35,0.9915110468864441
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Easy1,0.4,0.9958653450012207
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Easy2,0.05,0.9964809417724609
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Easy2,0.1,0.9931818246841431
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Easy2,0.15,0.9964830279350281
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Easy2,0.2,0.9546228051185608
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Difficult1,0.05,0.9379432797431946
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Difficult1,0.1,0.9941995143890381
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Difficult1,0.15,0.985023021697998
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Difficult1,0.2,0.9847686290740967
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Difficult2,0.05,0.9928656220436096
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Difficult2,0.1,0.998266875743866
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Difficult2,0.15,0.9953488111495972
+"{'convolutional_layers': [('conv', 16), ('conv', 32), ('pool', 2), ('conv', 64), ('pool', 2), ('conv', 64)], 'fully_connected_layers': [300, 100]}",362191,832092.0,Difficult2,0.2,0.9965655207633972

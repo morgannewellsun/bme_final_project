@@ -1,0 +1,68 @@
+C:\Users\Morgan\anaconda3\envs\bme_labs\python.exe D:\Documents\Academics\BME517\final_project\main.py 
+[]
+[INFO] Loading datasets.
+[INFO] Training model variants.
+[INFO] Generated 58 model configurations to train.
+2023-04-16 17:27:14.046606: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-04-16 17:27:14.047582: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+[INFO] config #0: n_params=106893, n_mult=579042.0, total_val_acc=19.871100 
+[INFO] config #1: n_params=27381, n_mult=84126.0, total_val_acc=19.728406 
+[INFO] config #2: n_params=4383, n_mult=18900.0, total_val_acc=18.798229 
+[INFO] config #3: n_params=1901, n_mult=5310.0, total_val_acc=19.174338 
+[INFO] config #4: n_params=351, n_mult=1236.0, total_val_acc=15.618429 
+[INFO] config #5: n_params=106893, n_mult=480738.0, total_val_acc=19.741555 
+[INFO] config #6: n_params=27381, n_mult=96414.0, total_val_acc=19.463797 
+[INFO] config #7: n_params=4383, n_mult=18900.0, total_val_acc=18.432325 
+[INFO] config #8: n_params=845, n_mult=4254.0, total_val_acc=15.291195 
+[INFO] config #9: n_params=247, n_mult=972.0, total_val_acc=12.834037 
+[INFO] config #10: n_params=185741, n_mult=655842.0, total_val_acc=19.785522 
+[INFO] config #11: n_params=47605, n_mult=164766.0, total_val_acc=19.781584 
+[INFO] config #12: n_params=12063, n_mult=41172.0, total_val_acc=19.824801 
+[INFO] config #13: n_params=3309, n_mult=10494.0, total_val_acc=19.078154 
+[INFO] config #14: n_params=975, n_mult=2724.0, total_val_acc=17.298855 
+[INFO] config #15: n_params=206543, n_mult=678492.0, total_val_acc=19.688361 
+[INFO] config #16: n_params=113631, n_mult=170076.0, total_val_acc=19.843921 
+[INFO] config #17: n_params=51463, n_mult=65628.0, total_val_acc=18.969273 
+[INFO] config #18: n_params=50499, n_mult=53532.0, total_val_acc=19.600850 
+[INFO] config #19: n_params=35659, n_mult=36156.0, total_val_acc=15.291617 
+[INFO] config #20: n_params=206543, n_mult=580188.0, total_val_acc=19.757745 
+[INFO] config #21: n_params=113631, n_mult=182364.0, total_val_acc=19.810064 
+[INFO] config #22: n_params=51463, n_mult=65628.0, total_val_acc=19.240993 
+[INFO] config #23: n_params=35907, n_mult=38940.0, total_val_acc=16.128970 
+[INFO] config #24: n_params=33227, n_mult=33564.0, total_val_acc=11.870460 
+[INFO] config #25: n_params=362191, n_mult=832092.0, total_val_acc=19.819712 
+[INFO] config #26: n_params=191455, n_mult=308316.0, total_val_acc=19.862821 
+[INFO] config #27: n_params=109831, n_mult=138588.0, total_val_acc=19.776139 
+[INFO] config #28: n_params=69955, n_mult=76764.0, total_val_acc=19.724875 
+[INFO] config #29: n_params=50251, n_mult=51612.0, total_val_acc=18.851356 
+[INFO] config #30: n_params=245869, n_mult=2133474.0, total_val_acc=19.658097 
+[INFO] config #31: n_params=163269, n_mult=1067934.0, total_val_acc=19.816835 
+[INFO] config #32: n_params=101319, n_mult=1008084.0, total_val_acc=19.849672 
+[INFO] config #33: n_params=103001, n_mult=1004670.0, total_val_acc=19.822536 
+[INFO] config #34: n_params=87027, n_mult=990756.0, total_val_acc=19.459555 
+[INFO] config #35: n_params=245869, n_mult=1740258.0, total_val_acc=19.767097 
+[INFO] config #36: n_params=163269, n_mult=1264542.0, total_val_acc=19.775541 
+[INFO] config #37: n_params=101319, n_mult=1008084.0, total_val_acc=19.794489 
+[INFO] config #38: n_params=86105, n_mult=895614.0, total_val_acc=19.064846 
+[INFO] config #39: n_params=83699, n_mult=696612.0, total_val_acc=19.401270 
+[INFO] config #40: n_params=403565, n_mult=2287074.0, total_val_acc=19.591984 
+[INFO] config #41: n_params=244165, n_mult=2127774.0, total_val_acc=19.725145 
+[INFO] config #42: n_params=162759, n_mult=2046420.0, total_val_acc=19.733411 
+[INFO] config #43: n_params=125529, n_mult=2009214.0, total_val_acc=19.800552 
+[INFO] config #44: n_params=106995, n_mult=1990692.0, total_val_acc=19.765302 
+[INFO] config #45: n_params=422319, n_mult=2309724.0, total_val_acc=19.798380 
+[INFO] config #46: n_params=422319, n_mult=1326684.0, total_val_acc=19.840576 
+[INFO] config #47: n_params=266671, n_mult=1173084.0, total_val_acc=19.723213 
+[INFO] config #48: n_params=422319, n_mult=1323612.0, total_val_acc=19.833931 
+[INFO] config #49: n_params=266671, n_mult=1170012.0, total_val_acc=19.800538 
+[INFO] config #50: n_params=266671, n_mult=678492.0, total_val_acc=19.758426 
+[INFO] config #51: n_params=188847, n_mult=601692.0, total_val_acc=19.811345 
+[INFO] config #52: n_params=422319, n_mult=1916508.0, total_val_acc=19.840904 
+[INFO] config #53: n_params=422319, n_mult=1523292.0, total_val_acc=19.850861 
+[INFO] config #54: n_params=266671, n_mult=1173084.0, total_val_acc=19.751315 
+[INFO] config #55: n_params=188847, n_mult=997980.0, total_val_acc=19.548598 
+[INFO] config #56: n_params=188847, n_mult=801372.0, total_val_acc=19.648862 
+[INFO] config #57: n_params=149935, n_mult=713820.0, total_val_acc=19.520449 
+
+Process finished with exit code 0

@@ -1,0 +1,21 @@
+configuration,n_params,n_mult,diff,noise,val_acc
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Easy1,0.05,0.9243028163909912
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Easy1,0.1,0.9699034690856934
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Easy1,0.15,0.9649223685264587
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Easy1,0.2,0.6137017607688904
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Easy1,0.25,0.6258338093757629
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Easy1,0.3,0.8279631733894348
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Easy1,0.35,0.538200318813324
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Easy1,0.4,0.34967511892318726
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Easy2,0.05,0.3976539671421051
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Easy2,0.1,0.9585227370262146
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Easy2,0.15,0.9161781668663025
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Easy2,0.2,0.6874645352363586
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Difficult1,0.05,0.945035457611084
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Difficult1,0.1,0.7697215676307678
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Difficult1,0.15,0.7286866307258606
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Difficult1,0.2,0.6754540205001831
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Difficult2,0.05,0.6373364925384521
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Difficult2,0.1,0.3391103446483612
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Difficult2,0.15,0.664534866809845
+"{'convolutional_layers': [('pool', 2), ('conv', 1), ('conv', 2), ('pool', 2), ('conv', 4), ('pool', 2), ('conv', 4), ('pool', 2)], 'fully_connected_layers': [9, 3]}",351,1236.0,Difficult2,0.2,0.6462507247924805

@@ -1,0 +1,40 @@
+Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ input_1 (InputLayer)        [(None, 64)]              0         
+                                                                 
+ reshape (Reshape)           (None, 64, 1)             0         
+                                                                 
+ conv1d (Conv1D)             (None, 64, 32)            128
+                                                                 
+ conv1d_1 (Conv1D)           (None, 64, 64)            6208      
+                                                                 
+ max_pooling1d (MaxPooling1D  (None, 32, 64)           0         
+ )                                                               
+                                                                 
+ conv1d_2 (Conv1D)           (None, 32, 128)           24704     
+                                                                 
+ max_pooling1d_1 (MaxPooling  (None, 16, 128)          0         
+ 1D)                                                             
+                                                                 
+ conv1d_3 (Conv1D)           (None, 16, 128)           49280     
+                                                                 
+ flatten (Flatten)           (None, 2048)              0         
+                                                                 
+ dropout (Dropout)           (None, 2048)              0         
+                                                                 
+ batch_normalization (BatchN  (None, 2048)             8192      
+ ormalization)                                                   
+                                                                 
+ dense (Dense)               (None, 300)               614700    
+                                                                 
+ dense_1 (Dense)             (None, 100)               30100     
+                                                                 
+ dense_2 (Dense)             (None, 3)                 303       
+                                                                 
+=================================================================
+Total params: 733,615
+Trainable params: 729,519
+Non-trainable params: 4,096
+_________________________________________________________________
